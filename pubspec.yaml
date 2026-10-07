@@ -1,0 +1,19 @@
+name: smooth_shimmer
+description: A high-performance, customizable skeleton loading shimmer effect for Flutter widgets with zero dependencies.
+version: 1.0.0
+homepage: https://github.com/Codes-of-NazmuL/smooth_shimmer
+repository: https://github.com/Codes-of-NazmuL/smooth_shimmer
+issue_tracker: https://github.com/Codes-of-NazmuL/smooth_shimmer/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
